@@ -1,0 +1,133 @@
+**Characteristic**,"**no**, N = 169","**si**, N = 44"
+edad,NA,NA
+>80,14 (8.3%),3 (6.8%)
+19-30,9 (5.4%),1 (2.3%)
+31-40,5 (3.0%),6 (14%)
+41-50,30 (18%),8 (18%)
+51-60,40 (24%),14 (32%)
+61-70,46 (27%),6 (14%)
+71-80,24 (14%),6 (14%)
+Unknown,1,0
+sexo,NA,NA
+femenino,86 (51%),17 (39%)
+masculino,83 (49%),27 (61%)
+ocupacion,NA,NA
+agricultor,3 (1.8%),0 (0%)
+ama casa,35 (21%),7 (16%)
+comerciante,7 (4.1%),5 (11%)
+jubilado,8 (4.7%),2 (4.5%)
+ninguno,54 (32%),13 (30%)
+otros,57 (34%),16 (36%)
+profesional,5 (3.0%),1 (2.3%)
+nivel_de_instruccion,NA,NA
+analfabeto,18 (11%),4 (9.3%)
+primaria,90 (54%),21 (49%)
+secundaria,54 (32%),13 (30%)
+superior,6 (3.6%),5 (12%)
+Unknown,1,1
+tiempo_de_enfermedad,NA,NA
+"[5, 10[",51 (31%),12 (28%)
+<5,50 (30%),11 (26%)
+> 10,64 (39%),20 (47%)
+Unknown,4,1
+tiene_tratamiento,NA,NA
+lo abandona,37 (22%),16 (36%)
+no,12 (7.1%),7 (16%)
+si,120 (71%),21 (48%)
+tratamiento_actual,NA,NA
+antidiabetico orales,60 (36%),16 (36%)
+insulina sola,49 (29%),8 (18%)
+insulinas + antidiabeticos orales,39 (23%),10 (23%)
+ninguno,21 (12%),10 (23%)
+glicemia_de_ingreso,NA,NA
+<250mg/dl,31 (19%),8 (19%)
+>250mg/dl,128 (81%),34 (81%)
+Unknown,10,2
+causas_de_descompensacion,NA,NA
+abandono al tratamiento,32 (19%),6 (14%)
+covid 19,0 (0%),10 (23%)
+debut,11 (6.5%),4 (9.1%)
+falta de medicacion,5 (3.0%),0 (0%)
+mal control metabolico,58 (35%),9 (20%)
+miscelaneo,13 (7.7%),3 (6.8%)
+proceso infeccioso,49 (29%),12 (27%)
+Unknown,1,0
+frecuencia_de_descompensacion,NA,NA
+primer ingreso,65 (38%),30 (68%)
+subsecuente,104 (62%),14 (32%)
+leucocitos,NA,NA
+<10.000/ul,97 (57%),27 (61%)
+>10.000/ul,72 (43%),17 (39%)
+neutrofilos,NA,NA
+<65%,89 (53%),16 (37%)
+>65%,80 (47%),27 (63%)
+Unknown,0,1
+parametros_de_gasometria,NA,NA
+acidosis metabolica,51 (30%),12 (27%)
+otros trastornos acido base,9 (5.3%),4 (9.1%)
+sin acidosis metabolica,109 (64%),28 (64%)
+electrolitos,NA,NA
+hipercloremia,1 (0.6%),0 (0%)
+hiperkalemia,9 (5.4%),2 (4.5%)
+hipernatremia,4 (2.4%),1 (2.3%)
+hipokalemia,10 (6.0%),5 (11%)
+hiponatremia,27 (16%),5 (11%)
+sin alteracion,117 (70%),31 (70%)
+Unknown,1,0
+anion_gap,NA,NA
+>12meq,96 (57%),25 (58%)
+8-12meq/l,73 (43%),18 (42%)
+Unknown,0,1
+osmolaridad,NA,NA
+<280mosm/l,16 (9.5%),2 (4.5%)
+>295mosm/l,65 (38%),20 (45%)
+280-295mosm/l,88 (52%),22 (50%)
+hemoglobina_glicosilada,NA,NA
+<6.99,37 (37%),12 (40%)
+>7%,62 (63%),18 (60%)
+Unknown,70,14
+electrocardiograma,NA,NA
+alteracion del qt,2 (1.3%),1 (2.6%)
+alteraciones de ondas t,9 (5.7%),4 (10%)
+bradicardia sinusal,1 (0.6%),1 (2.6%)
+fibrilacion auricular,3 (1.9%),0 (0%)
+no hay electrocardiograma,86 (54%),17 (44%)
+normal,45 (28%),11 (28%)
+ondas t negativas,7 (4.4%),4 (10%)
+signos de infarto agudo o isquemia,5 (3.2%),1 (2.6%)
+Unknown,11,5
+dg_de_covid,NA,NA
+clinico,0 (0%),30 (71%)
+pcr,0 (0%),3 (7.1%)
+tomografia,66 (100%),9 (21%)
+Unknown,103,2
+area_de_ingreso,NA,NA
+ambulatorio,88 (53%),8 (19%)
+hospitalizacion general,65 (39%),30 (70%)
+uci,14 (8.4%),5 (12%)
+Unknown,2,1
+tomografia_de_torax,NA,NA
+corads 1-2,65 (100%),24 (73%)
+corads 3-4,0 (0%),8 (24%)
+corads 5,0 (0%),1 (3.0%)
+Unknown,104,11
+emo,NA,NA
+infeccioso,30 (18%),9 (20%)
+no infeccioso,139 (82%),35 (80%)
+cetonas_en_orina,NA,NA
+negativo,132 (78%),32 (73%)
+positivo,37 (22%),12 (27%)
+tipo_de_infeccion,NA,NA
+biliar,3 (4.1%),0 (0%)
+gastrointestinales,5 (6.8%),0 (0%)
+otras,21 (29%),19 (46%)
+partes blandas,14 (19%),6 (15%)
+pulmonar,1 (1.4%),9 (22%)
+urinaria,29 (40%),7 (17%)
+Unknown,96,3
+causas_miscelaneas,NA,NA
+enfermedad cerebrovascular,2 (17%),1 (33%)
+infarto agudo de miocardio,6 (50%),1 (33%)
+pancreatitis,4 (33%),0 (0%)
+tromboembolica pulmonar,0 (0%),1 (33%)
+Unknown,157,41
